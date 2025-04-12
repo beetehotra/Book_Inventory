@@ -9,9 +9,13 @@ pandas, objdict, fuzzywuzzy, and python-levenshtein. Install these packages by r
 followin commands.
 
 $pip install numpy
+
 $pip install pandas
+
 $pip install objdict
+
 $pip install fuzzywuzzy
+
 $pip install python-levenshtein
 
 This is required only once.
